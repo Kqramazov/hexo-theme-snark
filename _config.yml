@@ -27,7 +27,7 @@ fancybox: true  ## for image view
 copyright: true ## for CC BY-NC 4.0 license
 highlight: ## only choose one of below items
     google_code_prettify: false
-    highlight: true ## highlight.js
+    highlight: false ## highlight.js
     highlight_theme: 'atom-one-dark' ## refer: https://highlightjs.org/static/demo/
         
 
